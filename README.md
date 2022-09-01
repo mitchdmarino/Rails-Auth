@@ -24,3 +24,6 @@ rake db:migrate
 Now run your application
 
 rails s
+
+
+https://www.bluebash.co/blog/rails-6-7-api-authentication-with-jwt/
